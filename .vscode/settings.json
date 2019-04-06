@@ -1,0 +1,16 @@
+{
+    "cSpell.language": "en,es",
+    "cSpell.userWords": [],
+    "dotnet-test-explorer.autoExpandTree": true,
+    "editor.autoIndent": true,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.snippetSuggestions": "top",
+    "coverage-gutters.showGutterCoverage": true,
+    "coverage-gutters.showLineCoverage": false
+}
